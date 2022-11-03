@@ -11,3 +11,5 @@
 Type your name here!
 - Bardia Parmoun
 - Matt was here :)
+- Mircea Preotesoiu
+- Guy Morgenshtern
