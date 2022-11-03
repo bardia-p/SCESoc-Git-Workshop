@@ -10,4 +10,4 @@
 ## Attendance
 Type your name here!
 - Bardia Parmoun
-- Sid Joshi
+- Sid J
