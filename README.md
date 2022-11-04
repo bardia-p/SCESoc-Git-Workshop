@@ -11,3 +11,10 @@
 Type your name here!
 - Bardia Parmoun
 - Sid J
+- Nabeel Azard
+- Anique Ali
+- Mumtahin Farabi
+- Fay Rushwany
+- Matt was here :)
+- Mircea Preotesoiu
+- Guy Morgenshtern
