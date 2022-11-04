@@ -10,6 +10,7 @@
 ## Attendance
 Type your name here!
 - Bardia Parmoun
+- Sid J
 - Nabeel Azard
 - Anique Ali
 - Mumtahin Farabi
