@@ -10,6 +10,7 @@
 ## Attendance
 Type your name here!
 - Bardia Parmoun
+- Mumtahin Farabi
 - Fay Rushwany
 - Matt was here :)
 - Mircea Preotesoiu
