@@ -11,3 +11,8 @@
 Type your name here!
 - Bardia Parmoun
 - Anique Ali
+- Mumtahin Farabi
+- Fay Rushwany
+- Matt was here :)
+- Mircea Preotesoiu
+- Guy Morgenshtern
